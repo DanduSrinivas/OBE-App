@@ -1,0 +1,6 @@
+{
+  "name": "OBE Platform",
+  "description": "An Outcomes-Based Education (OBE) system supporting faculty dashboards, course outcomes mapping, assessment marks entry, and alignment analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
